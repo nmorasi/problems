@@ -1,6 +1,7 @@
 package com.personal.problems.longestcommonsubs;
 
 // longest common subsequence, dp
+//  https://leetcode.com/problems/longest-common-subsequence/description/?envType=study-plan-v2&envId=amazon-spring-23-high-frequency
 class Solution {
     public int longestCommonSubsequence(String text1, String text2) {
         int n = text1.length();
